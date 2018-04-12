@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MeshConvert": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../data/mesh.json ../../../data/output/"
+    }
+  }
+}
